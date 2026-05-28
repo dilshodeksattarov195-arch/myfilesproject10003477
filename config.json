@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfpdate",
+        "uuid": 14099235,
+        "checksum": "kcoraq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
